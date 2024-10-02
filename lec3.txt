@@ -1,0 +1,24 @@
+Pure Functions & Non -Pure Functions 
+
+def statement () :
+	...
+
+devision
+	>1 /		truediv ( ,_)
+	>2 //		floordiv ( ,_)
+
+if statement :
+	...
+elif statement :
+	...
+else :
+	...
+
+while statement :
+	...
+
+
+
+
+
+
